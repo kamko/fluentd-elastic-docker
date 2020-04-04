@@ -1,6 +1,6 @@
 # fluentd-elastic docker image
 [![Actions Status](https://github.com/kamko/fluentd-elastic-docker/workflows/Docker%20build/badge.svg)](https://github.com/kamko/fluentd-elastic-docker/actions "docker build status badge")
-[![image metadata](https://images.microbadger.com/badges/image/kamko/fluentd-elastic-docker.svg)](https://microbadger.com/images/kamko/fluentd-elastic-docker "kamko/fluentd-elastic-docker image metadata")
+[![image metadata](https://images.microbadger.com/badges/image/kamko/fluentd-elastic.svg)](https://microbadger.com/images/kamko/fluentd-elastic "kamko/fluentd-elastic image metadata")
 
 Basic fluentd image with [`fluent-plugin-elasticsearch`](https://github.com/uken/fluent-plugin-elasticsearch) preinstalled.
 
