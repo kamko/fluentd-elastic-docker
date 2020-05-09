@@ -8,8 +8,8 @@ Automatically built with tags representing fluentd and elastic plugin versions i
 
 - `kamko/fluentd-elastic:<fluentd-version>-<elastic-plugin-version>`
 
-Current version: `kamko/fluentd-elastic:1.10.1-4.0.7`
+Current version: `kamko/fluentd-elastic:1.10.3-4.0.8`
 
 ## Versions
-- [`fluent/fluentd:v1.10.1-debian-1.0`](https://hub.docker.com/layers/fluent/fluentd/v1.10.1-debian-1.0/images/sha256-8fa1a8346a5fd3fd9554920bdd97e7c273a5725a8a785e967dd5ab8f61605d2b?context=explore)
-- [`fluent-plugin-elasticsearch v4.0.7`](https://github.com/uken/fluent-plugin-elasticsearch/releases/tag/v4.0.7)
+- [`fluent/fluentd:v1.10.3-debian-1.0`](https://hub.docker.com/layers/fluent/fluentd/v1.10.3-debian-1.0/images/sha256-e8e1588bf2613d35488b68c8da59360304c47ac125aa64fc09eb3c239c1d1a66?context=explore)
+- [`fluent-plugin-elasticsearch v4.0.8`](https://github.com/uken/fluent-plugin-elasticsearch/releases/tag/v4.0.8)
